@@ -25,6 +25,13 @@ import com.example.materialtest.utils.ToastUtil;
 
 import java.util.ArrayList;
 
+/**
+ * MainActivity V
+ *
+ * @author ALion
+ * @version 2017/6/25 16:32
+ */
+
 public class MainActivity extends AppCompatActivity implements Main.View {
 
     private DrawerLayout drawerLayout;
@@ -56,7 +63,7 @@ public class MainActivity extends AppCompatActivity implements Main.View {
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true);
-//            actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);
+//            actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);iew
         }
         drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
