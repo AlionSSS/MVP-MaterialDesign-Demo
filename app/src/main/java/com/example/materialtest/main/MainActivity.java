@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity implements Main.View {
 
         mainPresenter = new MainPresenterImpl(this);
         mainPresenter.start();
-
     }
 
     private void initView() {
