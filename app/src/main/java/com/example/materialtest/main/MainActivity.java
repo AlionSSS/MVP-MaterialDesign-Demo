@@ -87,7 +87,6 @@ public class MainActivity extends AppCompatActivity implements Main.View {
         fruitAdapter.setData(null);
         fruitAdapter.setActivity(this);
         recyclerView.setAdapter(fruitAdapter);
-
     }
 
     private void initListener() {
