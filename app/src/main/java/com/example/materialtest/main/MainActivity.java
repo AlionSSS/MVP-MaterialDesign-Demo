@@ -26,7 +26,7 @@ import com.example.materialtest.utils.ToastUtil;
 import java.util.ArrayList;
 
 /**
- * MainActivity View
+ * MainActivity View1
  *
  * @author ALion
  * @version 2017/6/25 16:32
