@@ -6,6 +6,26 @@
 - 本项目将原项目的框架改为了MVP，重新制作
 - 本项目做了一些MaterialDesign的补充效果实现
 
+## 内容
+- MVP
+    - Model
+    - View
+    - Presenter
+    - Interactor
+- Material Design
+    - CoordinatorLayout
+    - AppBarLayout
+    - Toolbar
+    - SwipeRefreshLayout
+    - RecyclerView
+    - FloatingActionButton
+    - NavigationView
+    - CollapsingToolbarLayout
+    - NestedScrollView
+    - CardView
+    - ActionBarDrawerToggle
+    - ActivityOptions.makeSceneTransitionAnimation
+
 ## build.gradle
 ```gradle
 apply plugin: 'com.android.application'
