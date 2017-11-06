@@ -8,10 +8,10 @@
 
 ## 内容
 - MVP
-    - Model
-    - View
+    - Model
+    - View
     - Presenter
-    - Interactor
+    - Interactor
 - Material Design
     - CoordinatorLayout
     - AppBarLayout
