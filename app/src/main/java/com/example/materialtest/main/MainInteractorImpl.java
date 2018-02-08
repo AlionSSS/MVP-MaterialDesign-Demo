@@ -39,7 +39,8 @@ public class MainInteractorImpl implements MainInteractor {
             new FruitBean("Orange", R.drawable.orange), new FruitBean("Watermelon", R.drawable.watermelon),
             new FruitBean("Pineapple", R.drawable.pineapple), new FruitBean("Strawberry", R.drawable.strawberry),
             new FruitBean("Cherry", R.drawable.cherry), new FruitBean("Mango", R.drawable.mango),
-            new FruitBean("Pear", R.drawable.pear), new FruitBean("Grape", R.drawable.grape)};
+            new FruitBean("Pear", R.drawable.pear), new FruitBean("Grape", R.drawable.grape)
+    };
 
     /**
      * 生成随机数据

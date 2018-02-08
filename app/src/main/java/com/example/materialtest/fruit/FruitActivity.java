@@ -11,13 +11,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.bumptech.glide.util.LruCache;
 import com.example.materialtest.R;
 import com.example.materialtest.global.Keys;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 
 /**
  * 水果详细信息页面Activity
@@ -70,7 +65,7 @@ public class FruitActivity extends AppCompatActivity implements Fruit.View {
 
     @Override
     public void setContent(int resId) {
-        tvFruit.setText(getResources().getString(resId != 0 ? resId : R.string.erro));
+        tvFruit.setText(getResources().getString(resId != 0 ? resId : R.string.error));
     }
 
     @Override

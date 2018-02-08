@@ -75,6 +75,6 @@
         "    葡萄为著名水果，生食或制葡萄干，并酿酒，酿酒后的酒脚可提酒食酸，根和藤药用能止呕、安胎。"
     </string>
 
-    <string name="erro">抱歉~暂无相关信息！</string>
+    <string name="error">抱歉~暂无相关信息！</string>
     <string name="fruitTransitionName">fruit</string>
 </resources>
